@@ -14,6 +14,6 @@ crate-type = ["cdylib"]
 solana-program = "1.7.11"
 
 [dependencies.neon]
-version = "0.9"
+version = "0.10"
 default-features = false
 features = ["napi-6", "channel-api"]
